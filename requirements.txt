@@ -1,0 +1,6 @@
+playwright
+openai
+chromadb
+python-dotenv
+PyYAML
+rich
