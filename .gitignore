@@ -9,6 +9,12 @@ chroma.sqlite3
 versions/chroma/
 *.bin
 
+### misc ignores ###
+*.mp4
+*.txt
+*.png
+
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
