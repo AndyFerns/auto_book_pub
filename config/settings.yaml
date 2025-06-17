@@ -1,0 +1,9 @@
+scrape:
+  target_url: "https://en.wikisource.org/wiki/The_Gates_of_Morning/Book_1/Chapter_1"
+  save_screenshots: true
+
+dev_mode: false
+
+llm:
+  model: "gpt-4"
+  temperature: 0.7
