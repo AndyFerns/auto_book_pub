@@ -4,6 +4,11 @@
 ### dotenv ###
 .env
 
+### ChromaDB ###
+chroma.sqlite3
+versions/chroma/
+*.bin
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
